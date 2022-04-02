@@ -1,0 +1,1 @@
+export const baseUrl = "https://hn.algolia.com/api/v1/"
